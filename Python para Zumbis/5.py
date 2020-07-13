@@ -1,0 +1,6 @@
+s = float (input('Valor mercadoria '))
+a = float (input('Valor do desconto em % '))
+valordesconto = (s * a / 100)
+st = (s - valordesconto)
+print (f' {valordesconto: .2f} Desconto')
+print (f' {st: .2f} Valor total') 
