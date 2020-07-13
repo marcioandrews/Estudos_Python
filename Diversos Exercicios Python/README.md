@@ -1,1 +1,1 @@
-# algoritmos para estudos
+# Diversos Exercicios de Python.
