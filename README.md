@@ -1,1 +1,1 @@
-# algoritmos
+# algoritmos para estudos
